@@ -1,6 +1,6 @@
 # Python-Replit-Projects
 
-A collection of projects that I have developed using the Replit online IDE. Each link will redirect you to Replit project so you can try them.
+A collection of projects that I have developed using the Replit online IDE. Each "Demo" link will redirect you to Replit project so you can try them.
 
 ### Weather Console App
 
