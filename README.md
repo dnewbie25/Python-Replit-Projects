@@ -6,5 +6,6 @@ A collection of projects that I have developed using the Replit online IDE. Each
 
 - [Demo](https://replit.com/@danimontoyamont/Weather-Console-App#main.py)
 
-- Preview: 
+- Preview:
+
 ![image](weather_console_app.png)
